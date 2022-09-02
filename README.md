@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbernalesv
 - 👀 I’m interested in Data Science, Machine Learning and Data Analytics
-- 🌱 I’m currently learning statistics , Machine Learning and NLP 
+- 🌱 I’m currently learning Big data tools
 - 📫 How to reach me: https://www.linkedin.com/in/diego-bernales-valdivia , gmail: diegobernales3@gmail.com
 
 <!---
